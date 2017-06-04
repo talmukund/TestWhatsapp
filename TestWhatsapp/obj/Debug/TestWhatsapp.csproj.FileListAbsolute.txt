@@ -1,0 +1,8 @@
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\bin\Debug\TestWhatsapp.exe.config
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\bin\Debug\TestWhatsapp.exe
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\bin\Debug\TestWhatsapp.pdb
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\bin\Debug\WebDriver.dll
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\bin\Debug\WebDriver.xml
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\obj\Debug\TestWhatsapp.csprojResolveAssemblyReference.cache
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\obj\Debug\TestWhatsapp.exe
+C:\Users\Mkary\OneDrive\Documents\Visual Studio 2017\Projects\TestWhatsapp\TestWhatsapp\obj\Debug\TestWhatsapp.pdb
